@@ -1,5 +1,5 @@
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dome385&show_icons=true&locale=en&layout=compact" alt="dome385" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dome385&show_icons=true&locale=en&layout=compact" alt="dome385" /></p><br>
 
 <h1 align="center">Hello 👋, i'm Dominik</h1>
 <h3 align="center">A passionate frontend developer & designer from Germany</h3>
