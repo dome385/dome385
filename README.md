@@ -1,8 +1,7 @@
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dome385&show_icons=true&locale=en&layout=compact" alt="dome385" /></p><br>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dome385&show_icons=true&locale=en&layout=compact" alt="dome385" /></p><br>
 <h1 align="center">Hello 👋, i'm Dominik</h1>
 <h3 align="center">A passionate frontend developer & designer from Germany</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dome385&label=Profile%20views&color=0e75b6&style=flat" alt="dome385" /> </p>
 
