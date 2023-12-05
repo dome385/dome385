@@ -14,7 +14,7 @@ A passionate frontend developer & designer from Germany
 
 - 🔭 I’m currently working on [Machine Learning Facerecognition](https://github.com/dome385/ML-Gesichtserkennung)
 
-- 🌱 I’m currently learning **React, NodeJS and Typescript**
+- 🌱 I’m currently learning **React, Next.js and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://ddesign.framer.website/](https://ddesign.framer.website/)
 
