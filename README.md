@@ -12,10 +12,6 @@ A passionate frontend developer & designer from Germany
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dome385&label=Profile%20views&color=0e75b6&style=flat" alt="dome385" /> </p>
 
 
-- 🔭 I’m currently working on [Machine Learning Facerecognition](https://github.com/dome385/ML-Gesichtserkennung)
-
-- 🌱 I’m currently learning **React, Next.js and Typescript**
-
 - 👨‍💻 All of my projects are available at [https://ddesign.framer.website/](https://ddesign.framer.website/)
 
 - 📫 How to reach me **dominik.niestroj@gmail.com**
