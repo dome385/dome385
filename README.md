@@ -12,12 +12,6 @@ A passionate developer & designer from Germany
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dome385&label=Profile%20views&color=0e75b6&style=flat" alt="dome385" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://ddesign.framer.website/](https://ddesign.framer.website/)
-
-- 📫 How to reach me **dominik.niestroj@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dominik-n-1357a8264/](https://www.linkedin.com/in/dominik-n-1357a8264/)
-
 
 
 <h3 align="left">Connect with me:</h3>
