@@ -14,10 +14,6 @@ A passionate developer & designer from Germany
 
 
 
-<h3 align="left">Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dominik-n-1357a8264) 
-</p>
 
 
 
