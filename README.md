@@ -29,11 +29,13 @@ A passionate developer & designer from Germany
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dome385&label=Profile%20views&color=0e75b6&style=flat" alt="dome385" /> </p>
+
 </div>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dome385&label=Profile%20views&color=0e75b6&style=flat" alt="dome385" /> </p>
 
 
 
