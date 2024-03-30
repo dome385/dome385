@@ -2,7 +2,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dome385&theme=gotham&hide_border=true)<br/>
 
 ## Hello 👋, i'm Dominik
-A passionate developer & designer from Germany
+
 
 # 💻 Tech Stack:
 <div align="center">
